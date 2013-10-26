@@ -1,4 +1,6 @@
 Practice
 ========
 
-This is repo for practice at the SWC bootcamp
+This is a repo for practice at the SWC bootcamp. 
+
+Read this file first.
